@@ -51,17 +51,17 @@ display:inline-block;
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);" class="card">
         <i class="card-icon far fa-envelope"></i>
-        <p>parkashrai560@gmail.com</p>
+        <p>shivamagarwal913@gmail.com</p>
       </div>
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);" class="card">
         <i class="card-icon fas fa-phone"></i>
-        <p>+923451379804</p>
+        <p>+916376307484</p>
       </div>
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);" class="card">
         <i class="card-icon fas fa-map-marker-alt"></i>
-        <center><p>Flat No 4,Fahad Manzil Hyderabad,Pakistan</p></center>
+        <center><p>Bikaner, Rajasthan(334001)</p></center>
       </div>
     </div>
     
