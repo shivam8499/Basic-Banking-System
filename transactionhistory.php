@@ -27,7 +27,7 @@
                 <th class="text-center">Sender</th>
                 <th class="text-center">Receiver</th>
                 <th class="text-center">Amount</th>
-                <th class="text-center">Date & Time</th>
+                <!--th class="text-center">Date & Time</th-->
             </tr>
         </thead>
         <tbody>
@@ -48,7 +48,7 @@
             <td class="py-2"><?php echo $rows['sender']; ?></td>
             <td class="py-2"><?php echo $rows['receiver']; ?></td>
             <td class="py-2"><?php echo $rows['balance']; ?> </td>
-            <td class="py-2"><?php echo $rows['datetime']; ?> </td>
+            <!--td class="py-2"><?php echo $rows['datetime']; ?> </td-->
                 
         <?php
             }
